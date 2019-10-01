@@ -1,6 +1,6 @@
 # 30DayChallange
 Create a simple website everyday
 
-DAY 1: DRUMS USING JS.
+DAY 1: Drums using JS.
 
-DAY 2: LIVE FUNCTIONAL CLOCK.
+DAY 2: Live functional clock.
